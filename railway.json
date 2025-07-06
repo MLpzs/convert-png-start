@@ -1,1 +1,1 @@
-{ "build": ["pip install -r requirements.txt"], "start": "python app.py" }
+{ "build": { "builder": "NIXPACKS" }, "start": "python app.py" }
